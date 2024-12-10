@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*.ush text eol=lf
+*.log text eol=lf
+*.txt text eol=lf
+
+# 바이너리 파일
+*.uasset binary
+*.umap binary
