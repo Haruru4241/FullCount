@@ -6,3 +6,11 @@
 # 바이너리 파일
 *.uasset binary
 *.umap binary
+
+# Unreal Engine 임시 및 저장 폴더 무시
+/Saved/*
+/Intermediate/*
+
+# 예외: 필요하면 특정 폴더 허용
+!/Saved/Config
+!/Saved/Logs
