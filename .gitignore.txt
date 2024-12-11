@@ -1,0 +1,10 @@
+# Unreal Engine temporary files
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/*.log
+/*.tmp
+/*.db
+/*.png
