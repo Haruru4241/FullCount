@@ -1,0 +1,8 @@
+# Unreal Engine temporary files
+
+Intermediate/CachedAssetRegistry_0.bin
+Saved/AutoScreenshot.png
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/FullCount1.log
+Saved/SourceControl/UncontrolledChangelists.json
+Saved/Telemetry/Telemetry.json
